@@ -23,7 +23,7 @@ class Userbot(Client):
         if config.STRING1:
             await self.one.start()
             try:
-                await self.one.join_chat("ProBotGc")
+                await self.one.join_chat("DUNE_BOTS")
                 await self.one.join_chat("DUNEBOTS")
             except:
                 pass

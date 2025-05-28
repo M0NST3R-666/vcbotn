@@ -230,7 +230,7 @@ def stream_markup2(_, chat_id):
                 text="ᴏᴡɴᴇʀ", url=f"https://t.me/Living_in_delusions"
             ),
             InlineKeyboardButton(
-                text="ᴄʜᴀᴛ", url=f"https://t.me/ProBotGc"
+                text="ᴄʜᴀᴛ", url=f"https://t.me/DUNE_BOTS"
             ),
         ],
 
