@@ -30,7 +30,7 @@ async def start(_, msg):
                 InlineKeyboardButton("𝗨𝗣𝗗𝗔𝗧𝗘", url="https://t.me/DUNEBOTS")
         ],
         [ 
-          InlineKeyboardButton("𝗦𝗢𝗨𝗥𝗖𝗘 𝗖𝗢𝗗𝗘", url=f"https://github.com/TeamProBots/Clonify")
+          InlineKeyboardButton("𝗦𝗢𝗨𝗥𝗖𝗘 𝗖𝗢𝗗𝗘", url=f"https://t.me/+YH5Y49csyzplYzk1")
         ]
     ]
     
