@@ -11,7 +11,7 @@ start_txt = """
 
 ┏━━━━━━━━━━━━━━━━━⧫
 ┠ ◆ **sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ:** [Click Here](https://github.com/TeamProBots/Clonify)  
-┠ ◆ **ᴅᴇᴠᴇʟᴏᴘᴇʀ:** [Zᴇᴏ](https://t.me/ZeoXpro)
+┠ ◆ **ᴅᴇᴠᴇʟᴏᴘᴇʀ:** [иιѕнιмιуα 🎀](https://t.me/Living_in_delusions)
 ┠ ◆ **ʀᴇʟᴇᴀsᴇᴅ ʙʏ:** [PʀᴏBᴏᴛs](https://t.me/ProBotts)
 ┗━━━━━━━━━━━━━━━━━⧫
 
