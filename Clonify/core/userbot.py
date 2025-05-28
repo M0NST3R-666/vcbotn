@@ -24,7 +24,7 @@ class Userbot(Client):
             await self.one.start()
             try:
                 await self.one.join_chat("ProBotGc")
-                await self.one.join_chat("ProBotts")
+                await self.one.join_chat("DUNEBOTS")
             except:
                 pass
             assistants.append(1)
